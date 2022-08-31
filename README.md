@@ -29,4 +29,5 @@ While creating this project I learnt about various utilities and jargons of Tail
 [Shopify Clone](https://shopify-clone-rk.netlify.app/)
 
 # Thumbnail
+![thumbnail](https://user-images.githubusercontent.com/109421054/187705125-ebdf83f3-7a89-4472-8a8a-c9e4529bad3e.png)
 
